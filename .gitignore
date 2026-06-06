@@ -1,0 +1,9 @@
+.venv/
+logs/
+reports/
+__pycache__/
+*.pyc
+.vscode/
+.pytest_cache/
+git_notes.txt
+notes.txt
